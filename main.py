@@ -7,7 +7,7 @@ def contaNumeros(numero,tamanho):
         for i in range (len(x)):
             if x[i] == str(numero):
                 cont +=1
-    print(cont)
+    print(f"Existem {cont} números {numero} na contagem de 1 a {tamanho}.")
 
 if __name__ == "__main__":
     contaNumeros(3,100)
