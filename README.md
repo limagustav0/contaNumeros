@@ -6,4 +6,6 @@ O código conta quantas vezes um determinado número aparece em um determinado r
 
 De 1 a 100, quantas vezes o numero 3 aparece. 
 
-### Como usar: 
+### Como usar: chame a função contaNumeros seguidos de 2 parâmetros, o primeiro será o 3 e o segundo o 100;
+
+contaNumeros(3,100)
